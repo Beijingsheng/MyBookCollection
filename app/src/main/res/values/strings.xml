@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <array name="rank">
+        <item>*</item>
+        <item>* * </item>
+        <item>* * *</item>
+    </array>
+</resources>
